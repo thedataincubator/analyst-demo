@@ -4,8 +4,6 @@
 2. Some understanding of using the command line / terminal
 * This demo is made for UNIX-like (basically Linux/OSX) systems. There are some differences in using the Windows command line. Production systems are built on Linux, so it's good to get used to UNIX-like environments.
 3. A decent text editor for writing code. I like Sublime Text(more lightweight) and Atom (more all-in-one).
-4. A Github account
-5. A Heroku account
 
 ## Set up a project directory
 1. Open up a terminal. You should be now in your home directory, where directories like "Documents" and "Downloads" are. 
@@ -32,15 +30,3 @@ Let's check that streamlit is working. Run the command `stramlit hello`. This st
 
 1. Let's start writing our own app! In your project directory, create a file called `app.py` and open it in your text editor.
 
-
-## Deploy via Heroku
-* Link to gists for the `Procfile` and `setup.py` to copy/paste
-* Create new app in Heroku
-* Link to Github
-* You're done! 
-
-
-## Step 3: Visualizations?
-## Step 4: SQL Dashboard
-
-## Adjacent tutorial: generating the synthetic data for excel files and 
