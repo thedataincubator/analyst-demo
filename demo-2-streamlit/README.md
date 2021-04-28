@@ -1,4 +1,4 @@
-# Streamlit overview (not instructions for using the contents of this directory)
+# Instructions for getting started with Streamlit, NOT for using this repo
 
 ## Things you will need:
 1. Python
@@ -29,6 +29,3 @@ Now we're in our project folder. Let's get to work.
 
 ## Set up your Streamlit app!
 Let's check that streamlit is working. Run the command `stramlit hello`. This start a demo Streamlit app on your local machine, and it may open a browser window to that app. If it doesn't, then open a browser and enter the URL `localhost:8501`. This is the port Streamlit defaults to, but you can change the port if you ever want/need to. Look around this app a bit, if you'd like. 
-
-1. Let's start writing our own app! In your project directory, create a file called `app.py` and open it in your text editor.
-
