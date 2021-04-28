@@ -1,3 +1,10 @@
+# To use this Streamlit app:
+In a terminal open to this directory:
+1. Install the libraries in `requirements.txt`. I would recommend installing them in a virtual environment. You might use a package manager like `venv` or `conda` for this. See below for more detailed instructions.
+2. Activate your new virtual environment, if necessary, and run `streamlit app.py`.
+3. This will start a local web server and open our Streamlit app in your browser!
+
+
 # Instructions for getting started with Streamlit, NOT for using this repo
 
 ## Things you will need:
